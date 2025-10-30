@@ -6,7 +6,7 @@
 - **Roll Number**: VTU28669  
 - **Registration Number**: 24UECS1349  
 
-## Course Details
+## 👨‍💻Course Details
 - **Subject Name**: Database Management Systems  
 - **Subject Code**: 10211CS207  
 - **Faculty**: Dr. N. K. Senthil Kumar  
@@ -14,4 +14,10 @@
 
 ---
 
-This repository contains coursework, assignments, and resources related to the DBMS subject offered at Veltech University.
+##Repository 📂 Contains
+
+-Concept notes and schema designs  
+- 🛠️ Practical exercises and SQL scripts  
+- 📊 Project documentation and ER diagrams  
+- 📚 Reference materials and curated resources  
+Accordingly to the syllabus provided by Veltech University DBMS department 
